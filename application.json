@@ -1,0 +1,85 @@
+{
+  "Version": "0.0.1",
+  "DefaultLocale": "en-US",
+  "Locales": [
+    "en-US",
+    "zh-CN",
+    "de-DE",
+    "fr-FR",
+    "sv-SE",
+    "da-DK",
+    "fi-FI",
+    "es-ES",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "nb-NO",
+    "pt-BR",
+    "ru-RU"
+  ],
+  "Decks": [
+    {
+    	"Title": "Fruits",
+    	"File": "fruits.json"
+    	"Identifier": "12345677899900",
+    	"Localized": [ 
+	    	{"Locale": "en-US", "Word": "Fruits"}, 
+	    	{"Locale": "zh-CN", "Word": "Fruits"}, 
+		    {"Locale": "de-DE", "Word": "Fruits"}, 
+		    {"Locale": "fr-FR", "Word": "Fruits"}, 
+		    {"Locale": "sv-SE", "Word": "Fruits"}, 
+		    {"Locale": "da-DK", "Word": "Fruits"}, 
+		    {"Locale": "fi-FI", "Word": "Fruits"}, 
+		    {"Locale": "es-ES", "Word": "Fruits"}, 
+		    {"Locale": "it-IT", "Word": "Fruits"}, 
+		    {"Locale": "ja-JP", "Word": "Fruits"}, 
+		    {"Locale": "ko-KR", "Word": "Fruits"}, 
+		    {"Locale": "nb-NO", "Word": "Fruits"}, 
+		    {"Locale": "pt-BR", "Word": "Fruits"}, 
+		    {"Locale": "ru-RU", "Word": "Fruits"}
+    	]
+    },
+    {
+    	"Title": "Digits",
+    	"File": "digits.json"
+    	"Identifier": "12345677899900",
+    	"Localized": [ 
+	    	{"Locale": "en-US", "Word": "Numbers"}, 
+	    	{"Locale": "zh-CN", "Word": "Numbers"}, 
+		    {"Locale": "de-DE", "Word": "Numbers"}, 
+		    {"Locale": "fr-FR", "Word": "Numbers"}, 
+		    {"Locale": "sv-SE", "Word": "Siffror"}, 
+		    {"Locale": "da-DK", "Word": "Numbers"}, 
+		    {"Locale": "fi-FI", "Word": "Numbers"}, 
+		    {"Locale": "es-ES", "Word": "Numbers"}, 
+		    {"Locale": "it-IT", "Word": "Numbers"}, 
+		    {"Locale": "ja-JP", "Word": "Numbers"}, 
+		    {"Locale": "ko-KR", "Word": "Numbers"}, 
+		    {"Locale": "nb-NO", "Word": "Numbers"}, 
+		    {"Locale": "pt-BR", "Word": "Numbers"}, 
+		    {"Locale": "ru-RU", "Word": "Numbers"}
+    	]
+    },
+    {
+    	"Title": "Colors",
+    	"File": "colors.json"
+    	"Identifier": "12345677899900",
+    	"Localized": [ 
+	    	{"Locale": "en-US", "Word": "Colors"}, 
+	    	{"Locale": "zh-CN", "Word": "Numbers"}, 
+		    {"Locale": "de-DE", "Word": "Numbers"}, 
+		    {"Locale": "fr-FR", "Word": "Numbers"}, 
+		    {"Locale": "sv-SE", "Word": "Färger"}, 
+		    {"Locale": "da-DK", "Word": "Numbers"}, 
+		    {"Locale": "fi-FI", "Word": "Numbers"}, 
+		    {"Locale": "es-ES", "Word": "Numbers"}, 
+		    {"Locale": "it-IT", "Word": "Numbers"}, 
+		    {"Locale": "ja-JP", "Word": "Numbers"}, 
+		    {"Locale": "ko-KR", "Word": "Numbers"}, 
+		    {"Locale": "nb-NO", "Word": "Numbers"}, 
+		    {"Locale": "pt-BR", "Word": "Numbers"}, 
+		    {"Locale": "ru-RU", "Word": "Numbers"}
+    	]
+    },        
+  ]
+}
