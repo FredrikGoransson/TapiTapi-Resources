@@ -1,1 +1,819 @@
-﻿{"Version":"1.0.6","Locales":null,"Items":[{"Default":{"Locale":"en-US","Word":"Apple","Mp3FilePath":"Apple.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"苹果","Mp3FilePath":"Apple.zh.mp3"},{"Locale":"de-DE","Word":"Apfel","Mp3FilePath":"Apple.de.mp3"},{"Locale":"fr-FR","Word":"pomme","Mp3FilePath":"Apple.fr.mp3"},{"Locale":"sv-SE","Word":"Apple","Mp3FilePath":"Apple.sv.mp3"},{"Locale":"da-DK","Word":"Apple","Mp3FilePath":"Apple.da.mp3"},{"Locale":"fi-FI","Word":"omena","Mp3FilePath":"Apple.fi.mp3"},{"Locale":"es-ES","Word":"manzana","Mp3FilePath":"Apple.es.mp3"},{"Locale":"it-IT","Word":"mela","Mp3FilePath":"Apple.it.mp3"},{"Locale":"ja-JP","Word":"アップル","Mp3FilePath":"Apple.ja.mp3"},{"Locale":"ko-KR","Word":"사과","Mp3FilePath":"Apple.ko.mp3"},{"Locale":"nb-NO","Word":"Apple","Mp3FilePath":"Apple.nb.mp3"},{"Locale":"pt-BR","Word":"maçã","Mp3FilePath":"Apple.pt.mp3"},{"Locale":"ru-RU","Word":"яблоко","Mp3FilePath":"Apple.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Banana","Mp3FilePath":"Banana.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"香蕉","Mp3FilePath":"Banana.zh.mp3"},{"Locale":"de-DE","Word":"Banane","Mp3FilePath":"Banana.de.mp3"},{"Locale":"fr-FR","Word":"banane","Mp3FilePath":"Banana.fr.mp3"},{"Locale":"sv-SE","Word":"banan","Mp3FilePath":"Banana.sv.mp3"},{"Locale":"da-DK","Word":"Banana","Mp3FilePath":"Banana.da.mp3"},{"Locale":"fi-FI","Word":"banaani","Mp3FilePath":"Banana.fi.mp3"},{"Locale":"es-ES","Word":"plátano","Mp3FilePath":"Banana.es.mp3"},{"Locale":"it-IT","Word":"banana","Mp3FilePath":"Banana.it.mp3"},{"Locale":"ja-JP","Word":"バナナ","Mp3FilePath":"Banana.ja.mp3"},{"Locale":"ko-KR","Word":"바나나","Mp3FilePath":"Banana.ko.mp3"},{"Locale":"nb-NO","Word":"Banana","Mp3FilePath":"Banana.nb.mp3"},{"Locale":"pt-BR","Word":"banana","Mp3FilePath":"Banana.pt.mp3"},{"Locale":"ru-RU","Word":"банан","Mp3FilePath":"Banana.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Cherry","Mp3FilePath":"Cherry.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"樱桃","Mp3FilePath":"Cherry.zh.mp3"},{"Locale":"de-DE","Word":"Kirsche","Mp3FilePath":"Cherry.de.mp3"},{"Locale":"fr-FR","Word":"cerise","Mp3FilePath":"Cherry.fr.mp3"},{"Locale":"sv-SE","Word":"Körsbär","Mp3FilePath":"Cherry.sv.mp3"},{"Locale":"da-DK","Word":"Cherry","Mp3FilePath":"Cherry.da.mp3"},{"Locale":"fi-FI","Word":"kirsikka","Mp3FilePath":"Cherry.fi.mp3"},{"Locale":"es-ES","Word":"cereza","Mp3FilePath":"Cherry.es.mp3"},{"Locale":"it-IT","Word":"ciliegia","Mp3FilePath":"Cherry.it.mp3"},{"Locale":"ja-JP","Word":"チェリー","Mp3FilePath":"Cherry.ja.mp3"},{"Locale":"ko-KR","Word":"버찌","Mp3FilePath":"Cherry.ko.mp3"},{"Locale":"nb-NO","Word":"Cherry","Mp3FilePath":"Cherry.nb.mp3"},{"Locale":"pt-BR","Word":"cereja","Mp3FilePath":"Cherry.pt.mp3"},{"Locale":"ru-RU","Word":"вишня","Mp3FilePath":"Cherry.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Grapes","Mp3FilePath":"Grapes.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"葡萄","Mp3FilePath":"Grapes.zh.mp3"},{"Locale":"de-DE","Word":"Trauben","Mp3FilePath":"Grapes.de.mp3"},{"Locale":"fr-FR","Word":"raisin","Mp3FilePath":"Grapes.fr.mp3"},{"Locale":"sv-SE","Word":"vindruvor","Mp3FilePath":"Grapes.sv.mp3"},{"Locale":"da-DK","Word":"vindruer","Mp3FilePath":"Grapes.da.mp3"},{"Locale":"fi-FI","Word":"viinirypäleet","Mp3FilePath":"Grapes.fi.mp3"},{"Locale":"es-ES","Word":"uvas","Mp3FilePath":"Grapes.es.mp3"},{"Locale":"it-IT","Word":"uva","Mp3FilePath":"Grapes.it.mp3"},{"Locale":"ja-JP","Word":"葡萄","Mp3FilePath":"Grapes.ja.mp3"},{"Locale":"ko-KR","Word":"포도","Mp3FilePath":"Grapes.ko.mp3"},{"Locale":"nb-NO","Word":"druer","Mp3FilePath":"Grapes.nb.mp3"},{"Locale":"pt-BR","Word":"uvas","Mp3FilePath":"Grapes.pt.mp3"},{"Locale":"ru-RU","Word":"виноград","Mp3FilePath":"Grapes.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Kiwi","Mp3FilePath":"Kiwi.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"猕猴桃","Mp3FilePath":"Kiwi.zh.mp3"},{"Locale":"de-DE","Word":"kiwi","Mp3FilePath":"Kiwi.de.mp3"},{"Locale":"fr-FR","Word":"kiwi","Mp3FilePath":"Kiwi.fr.mp3"},{"Locale":"sv-SE","Word":"kiwi","Mp3FilePath":"Kiwi.sv.mp3"},{"Locale":"da-DK","Word":"kiwi","Mp3FilePath":"Kiwi.da.mp3"},{"Locale":"fi-FI","Word":"kiivi","Mp3FilePath":"Kiwi.fi.mp3"},{"Locale":"es-ES","Word":"kiwi","Mp3FilePath":"Kiwi.es.mp3"},{"Locale":"it-IT","Word":"kiwi","Mp3FilePath":"Kiwi.it.mp3"},{"Locale":"ja-JP","Word":"キウイ","Mp3FilePath":"Kiwi.ja.mp3"},{"Locale":"ko-KR","Word":"키위","Mp3FilePath":"Kiwi.ko.mp3"},{"Locale":"nb-NO","Word":"kiwi","Mp3FilePath":"Kiwi.nb.mp3"},{"Locale":"pt-BR","Word":"kiwi","Mp3FilePath":"Kiwi.pt.mp3"},{"Locale":"ru-RU","Word":"киви","Mp3FilePath":"Kiwi.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Lemon","Mp3FilePath":"Lemon.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"柠檬","Mp3FilePath":"Lemon.zh.mp3"},{"Locale":"de-DE","Word":"Zitrone","Mp3FilePath":"Lemon.de.mp3"},{"Locale":"fr-FR","Word":"citron","Mp3FilePath":"Lemon.fr.mp3"},{"Locale":"sv-SE","Word":"citron","Mp3FilePath":"Lemon.sv.mp3"},{"Locale":"da-DK","Word":"Lemon","Mp3FilePath":"Lemon.da.mp3"},{"Locale":"fi-FI","Word":"sitruuna","Mp3FilePath":"Lemon.fi.mp3"},{"Locale":"es-ES","Word":"limón","Mp3FilePath":"Lemon.es.mp3"},{"Locale":"it-IT","Word":"limone","Mp3FilePath":"Lemon.it.mp3"},{"Locale":"ja-JP","Word":"レモン","Mp3FilePath":"Lemon.ja.mp3"},{"Locale":"ko-KR","Word":"레몬","Mp3FilePath":"Lemon.ko.mp3"},{"Locale":"nb-NO","Word":"Lemon","Mp3FilePath":"Lemon.nb.mp3"},{"Locale":"pt-BR","Word":"limão","Mp3FilePath":"Lemon.pt.mp3"},{"Locale":"ru-RU","Word":"лимон","Mp3FilePath":"Lemon.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Orange","Mp3FilePath":"Orange.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"橙","Mp3FilePath":"Orange.zh.mp3"},{"Locale":"de-DE","Word":"orange","Mp3FilePath":"Orange.de.mp3"},{"Locale":"fr-FR","Word":"orange","Mp3FilePath":"Orange.fr.mp3"},{"Locale":"sv-SE","Word":"Orange","Mp3FilePath":"Orange.sv.mp3"},{"Locale":"da-DK","Word":"Orange","Mp3FilePath":"Orange.da.mp3"},{"Locale":"fi-FI","Word":"oranssi","Mp3FilePath":"Orange.fi.mp3"},{"Locale":"es-ES","Word":"naranja","Mp3FilePath":"Orange.es.mp3"},{"Locale":"it-IT","Word":"arancione","Mp3FilePath":"Orange.it.mp3"},{"Locale":"ja-JP","Word":"オレンジ","Mp3FilePath":"Orange.ja.mp3"},{"Locale":"ko-KR","Word":"오렌지","Mp3FilePath":"Orange.ko.mp3"},{"Locale":"nb-NO","Word":"Orange","Mp3FilePath":"Orange.nb.mp3"},{"Locale":"pt-BR","Word":"laranja","Mp3FilePath":"Orange.pt.mp3"},{"Locale":"ru-RU","Word":"оранжевый","Mp3FilePath":"Orange.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Peach","Mp3FilePath":"Peach.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"桃","Mp3FilePath":"Peach.zh.mp3"},{"Locale":"de-DE","Word":"Pfirsich","Mp3FilePath":"Peach.de.mp3"},{"Locale":"fr-FR","Word":"pêche","Mp3FilePath":"Peach.fr.mp3"},{"Locale":"sv-SE","Word":"Persika","Mp3FilePath":"Peach.sv.mp3"},{"Locale":"da-DK","Word":"Peach","Mp3FilePath":"Peach.da.mp3"},{"Locale":"fi-FI","Word":"persikka","Mp3FilePath":"Peach.fi.mp3"},{"Locale":"es-ES","Word":"melocotón","Mp3FilePath":"Peach.es.mp3"},{"Locale":"it-IT","Word":"pesca","Mp3FilePath":"Peach.it.mp3"},{"Locale":"ja-JP","Word":"ピーチ","Mp3FilePath":"Peach.ja.mp3"},{"Locale":"ko-KR","Word":"복숭아","Mp3FilePath":"Peach.ko.mp3"},{"Locale":"nb-NO","Word":"fersken","Mp3FilePath":"Peach.nb.mp3"},{"Locale":"pt-BR","Word":"pêssego","Mp3FilePath":"Peach.pt.mp3"},{"Locale":"ru-RU","Word":"персик","Mp3FilePath":"Peach.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Pear","Mp3FilePath":"Pear.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"梨","Mp3FilePath":"Pear.zh.mp3"},{"Locale":"de-DE","Word":"Birne","Mp3FilePath":"Pear.de.mp3"},{"Locale":"fr-FR","Word":"poire","Mp3FilePath":"Pear.fr.mp3"},{"Locale":"sv-SE","Word":"Päron","Mp3FilePath":"Pear.sv.mp3"},{"Locale":"da-DK","Word":"pære","Mp3FilePath":"Pear.da.mp3"},{"Locale":"fi-FI","Word":"päärynä","Mp3FilePath":"Pear.fi.mp3"},{"Locale":"es-ES","Word":"pera","Mp3FilePath":"Pear.es.mp3"},{"Locale":"it-IT","Word":"pera","Mp3FilePath":"Pear.it.mp3"},{"Locale":"ja-JP","Word":"梨","Mp3FilePath":"Pear.ja.mp3"},{"Locale":"ko-KR","Word":"배","Mp3FilePath":"Pear.ko.mp3"},{"Locale":"nb-NO","Word":"Pear","Mp3FilePath":"Pear.nb.mp3"},{"Locale":"pt-BR","Word":"pereira","Mp3FilePath":"Pear.pt.mp3"},{"Locale":"ru-RU","Word":"груша","Mp3FilePath":"Pear.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Raspberry","Mp3FilePath":"Raspberry.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"覆盆子","Mp3FilePath":"Raspberry.zh.mp3"},{"Locale":"de-DE","Word":"Himbeere","Mp3FilePath":"Raspberry.de.mp3"},{"Locale":"fr-FR","Word":"framboise","Mp3FilePath":"Raspberry.fr.mp3"},{"Locale":"sv-SE","Word":"Hallon","Mp3FilePath":"Raspberry.sv.mp3"},{"Locale":"da-DK","Word":"hindbær","Mp3FilePath":"Raspberry.da.mp3"},{"Locale":"fi-FI","Word":"vadelma","Mp3FilePath":"Raspberry.fi.mp3"},{"Locale":"es-ES","Word":"frambuesa","Mp3FilePath":"Raspberry.es.mp3"},{"Locale":"it-IT","Word":"lampone","Mp3FilePath":"Raspberry.it.mp3"},{"Locale":"ja-JP","Word":"ラズベリー","Mp3FilePath":"Raspberry.ja.mp3"},{"Locale":"ko-KR","Word":"나무 딸기","Mp3FilePath":"Raspberry.ko.mp3"},{"Locale":"nb-NO","Word":"bringebær","Mp3FilePath":"Raspberry.nb.mp3"},{"Locale":"pt-BR","Word":"framboesa","Mp3FilePath":"Raspberry.pt.mp3"},{"Locale":"ru-RU","Word":"малина","Mp3FilePath":"Raspberry.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Strawberry","Mp3FilePath":"Strawberry.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"草莓","Mp3FilePath":"Strawberry.zh.mp3"},{"Locale":"de-DE","Word":"Erdbeere","Mp3FilePath":"Strawberry.de.mp3"},{"Locale":"fr-FR","Word":"fraise","Mp3FilePath":"Strawberry.fr.mp3"},{"Locale":"sv-SE","Word":"Jordgubbe","Mp3FilePath":"Strawberry.sv.mp3"},{"Locale":"da-DK","Word":"Strawberry","Mp3FilePath":"Strawberry.da.mp3"},{"Locale":"fi-FI","Word":"mansikka","Mp3FilePath":"Strawberry.fi.mp3"},{"Locale":"es-ES","Word":"fresa","Mp3FilePath":"Strawberry.es.mp3"},{"Locale":"it-IT","Word":"fragola","Mp3FilePath":"Strawberry.it.mp3"},{"Locale":"ja-JP","Word":"イチゴ","Mp3FilePath":"Strawberry.ja.mp3"},{"Locale":"ko-KR","Word":"딸기","Mp3FilePath":"Strawberry.ko.mp3"},{"Locale":"nb-NO","Word":"Strawberry","Mp3FilePath":"Strawberry.nb.mp3"},{"Locale":"pt-BR","Word":"morango","Mp3FilePath":"Strawberry.pt.mp3"},{"Locale":"ru-RU","Word":"клубника","Mp3FilePath":"Strawberry.ru.mp3"}]}]}
+﻿{
+  "Version": "1.0.6",
+  "Items": [
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Apple",
+        "Mp3FilePath": "Apple.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "苹果",
+          "Mp3FilePath": "Apple.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "Apfel",
+          "Mp3FilePath": "Apple.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "pomme",
+          "Mp3FilePath": "Apple.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Apple",
+          "Mp3FilePath": "Apple.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "Apple",
+          "Mp3FilePath": "Apple.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "omena",
+          "Mp3FilePath": "Apple.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "manzana",
+          "Mp3FilePath": "Apple.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "mela",
+          "Mp3FilePath": "Apple.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "アップル",
+          "Mp3FilePath": "Apple.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "사과",
+          "Mp3FilePath": "Apple.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "Apple",
+          "Mp3FilePath": "Apple.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "maçã",
+          "Mp3FilePath": "Apple.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "яблоко",
+          "Mp3FilePath": "Apple.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Banana",
+        "Mp3FilePath": "Banana.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "香蕉",
+          "Mp3FilePath": "Banana.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "Banane",
+          "Mp3FilePath": "Banana.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "banane",
+          "Mp3FilePath": "Banana.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "banan",
+          "Mp3FilePath": "Banana.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "Banana",
+          "Mp3FilePath": "Banana.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "banaani",
+          "Mp3FilePath": "Banana.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "plátano",
+          "Mp3FilePath": "Banana.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "banana",
+          "Mp3FilePath": "Banana.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "バナナ",
+          "Mp3FilePath": "Banana.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "바나나",
+          "Mp3FilePath": "Banana.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "Banana",
+          "Mp3FilePath": "Banana.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "banana",
+          "Mp3FilePath": "Banana.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "банан",
+          "Mp3FilePath": "Banana.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Cherry",
+        "Mp3FilePath": "Cherry.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "樱桃",
+          "Mp3FilePath": "Cherry.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "Kirsche",
+          "Mp3FilePath": "Cherry.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "cerise",
+          "Mp3FilePath": "Cherry.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Körsbär",
+          "Mp3FilePath": "Cherry.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "Cherry",
+          "Mp3FilePath": "Cherry.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "kirsikka",
+          "Mp3FilePath": "Cherry.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "cereza",
+          "Mp3FilePath": "Cherry.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "ciliegia",
+          "Mp3FilePath": "Cherry.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "チェリー",
+          "Mp3FilePath": "Cherry.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "버찌",
+          "Mp3FilePath": "Cherry.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "Cherry",
+          "Mp3FilePath": "Cherry.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "cereja",
+          "Mp3FilePath": "Cherry.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "вишня",
+          "Mp3FilePath": "Cherry.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Grapes",
+        "Mp3FilePath": "Grapes.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "葡萄",
+          "Mp3FilePath": "Grapes.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "Trauben",
+          "Mp3FilePath": "Grapes.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "raisin",
+          "Mp3FilePath": "Grapes.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "vindruvor",
+          "Mp3FilePath": "Grapes.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "vindruer",
+          "Mp3FilePath": "Grapes.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "viinirypäleet",
+          "Mp3FilePath": "Grapes.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "uvas",
+          "Mp3FilePath": "Grapes.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "uva",
+          "Mp3FilePath": "Grapes.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "葡萄",
+          "Mp3FilePath": "Grapes.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "포도",
+          "Mp3FilePath": "Grapes.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "druer",
+          "Mp3FilePath": "Grapes.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "uvas",
+          "Mp3FilePath": "Grapes.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "виноград",
+          "Mp3FilePath": "Grapes.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Kiwi",
+        "Mp3FilePath": "Kiwi.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "猕猴桃",
+          "Mp3FilePath": "Kiwi.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "kiwi",
+          "Mp3FilePath": "Kiwi.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "kiwi",
+          "Mp3FilePath": "Kiwi.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "kiwi",
+          "Mp3FilePath": "Kiwi.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "kiwi",
+          "Mp3FilePath": "Kiwi.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "kiivi",
+          "Mp3FilePath": "Kiwi.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "kiwi",
+          "Mp3FilePath": "Kiwi.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "kiwi",
+          "Mp3FilePath": "Kiwi.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "キウイ",
+          "Mp3FilePath": "Kiwi.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "키위",
+          "Mp3FilePath": "Kiwi.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "kiwi",
+          "Mp3FilePath": "Kiwi.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "kiwi",
+          "Mp3FilePath": "Kiwi.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "киви",
+          "Mp3FilePath": "Kiwi.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Lemon",
+        "Mp3FilePath": "Lemon.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "柠檬",
+          "Mp3FilePath": "Lemon.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "Zitrone",
+          "Mp3FilePath": "Lemon.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "citron",
+          "Mp3FilePath": "Lemon.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "citron",
+          "Mp3FilePath": "Lemon.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "Lemon",
+          "Mp3FilePath": "Lemon.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "sitruuna",
+          "Mp3FilePath": "Lemon.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "limón",
+          "Mp3FilePath": "Lemon.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "limone",
+          "Mp3FilePath": "Lemon.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "レモン",
+          "Mp3FilePath": "Lemon.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "레몬",
+          "Mp3FilePath": "Lemon.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "Lemon",
+          "Mp3FilePath": "Lemon.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "limão",
+          "Mp3FilePath": "Lemon.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "лимон",
+          "Mp3FilePath": "Lemon.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Orange",
+        "Mp3FilePath": "Orange.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "橙",
+          "Mp3FilePath": "Orange.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "orange",
+          "Mp3FilePath": "Orange.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "orange",
+          "Mp3FilePath": "Orange.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Orange",
+          "Mp3FilePath": "Orange.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "Orange",
+          "Mp3FilePath": "Orange.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "oranssi",
+          "Mp3FilePath": "Orange.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "naranja",
+          "Mp3FilePath": "Orange.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "arancione",
+          "Mp3FilePath": "Orange.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "オレンジ",
+          "Mp3FilePath": "Orange.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "오렌지",
+          "Mp3FilePath": "Orange.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "Orange",
+          "Mp3FilePath": "Orange.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "laranja",
+          "Mp3FilePath": "Orange.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "оранжевый",
+          "Mp3FilePath": "Orange.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Peach",
+        "Mp3FilePath": "Peach.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "桃",
+          "Mp3FilePath": "Peach.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "Pfirsich",
+          "Mp3FilePath": "Peach.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "pêche",
+          "Mp3FilePath": "Peach.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Persika",
+          "Mp3FilePath": "Peach.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "Peach",
+          "Mp3FilePath": "Peach.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "persikka",
+          "Mp3FilePath": "Peach.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "melocotón",
+          "Mp3FilePath": "Peach.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "pesca",
+          "Mp3FilePath": "Peach.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "ピーチ",
+          "Mp3FilePath": "Peach.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "복숭아",
+          "Mp3FilePath": "Peach.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "fersken",
+          "Mp3FilePath": "Peach.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "pêssego",
+          "Mp3FilePath": "Peach.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "персик",
+          "Mp3FilePath": "Peach.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Pear",
+        "Mp3FilePath": "Pear.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "梨",
+          "Mp3FilePath": "Pear.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "Birne",
+          "Mp3FilePath": "Pear.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "poire",
+          "Mp3FilePath": "Pear.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Päron",
+          "Mp3FilePath": "Pear.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "pære",
+          "Mp3FilePath": "Pear.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "päärynä",
+          "Mp3FilePath": "Pear.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "pera",
+          "Mp3FilePath": "Pear.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "pera",
+          "Mp3FilePath": "Pear.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "梨",
+          "Mp3FilePath": "Pear.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "배",
+          "Mp3FilePath": "Pear.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "Pear",
+          "Mp3FilePath": "Pear.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "pereira",
+          "Mp3FilePath": "Pear.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "груша",
+          "Mp3FilePath": "Pear.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Raspberry",
+        "Mp3FilePath": "Raspberry.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "覆盆子",
+          "Mp3FilePath": "Raspberry.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "Himbeere",
+          "Mp3FilePath": "Raspberry.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "framboise",
+          "Mp3FilePath": "Raspberry.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Hallon",
+          "Mp3FilePath": "Raspberry.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "hindbær",
+          "Mp3FilePath": "Raspberry.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "vadelma",
+          "Mp3FilePath": "Raspberry.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "frambuesa",
+          "Mp3FilePath": "Raspberry.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "lampone",
+          "Mp3FilePath": "Raspberry.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "ラズベリー",
+          "Mp3FilePath": "Raspberry.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "나무 딸기",
+          "Mp3FilePath": "Raspberry.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "bringebær",
+          "Mp3FilePath": "Raspberry.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "framboesa",
+          "Mp3FilePath": "Raspberry.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "малина",
+          "Mp3FilePath": "Raspberry.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Strawberry",
+        "Mp3FilePath": "Strawberry.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "草莓",
+          "Mp3FilePath": "Strawberry.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "Erdbeere",
+          "Mp3FilePath": "Strawberry.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "fraise",
+          "Mp3FilePath": "Strawberry.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Jordgubbe",
+          "Mp3FilePath": "Strawberry.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "Strawberry",
+          "Mp3FilePath": "Strawberry.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "mansikka",
+          "Mp3FilePath": "Strawberry.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "fresa",
+          "Mp3FilePath": "Strawberry.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "fragola",
+          "Mp3FilePath": "Strawberry.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "イチゴ",
+          "Mp3FilePath": "Strawberry.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "딸기",
+          "Mp3FilePath": "Strawberry.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "Strawberry",
+          "Mp3FilePath": "Strawberry.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "morango",
+          "Mp3FilePath": "Strawberry.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "клубника",
+          "Mp3FilePath": "Strawberry.ru.mp3"
+        }
+      ]
+    }
+  ]
+}

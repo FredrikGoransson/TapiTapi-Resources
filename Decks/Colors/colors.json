@@ -1,1 +1,819 @@
-﻿{"Version":"1.0.6","Locales":null,"Items":[{"Default":{"Locale":"en-US","Word":"Apple","Mp3FilePath":"Apple.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"苹果","Mp3FilePath":"Apple.zh.mp3"},{"Locale":"de-DE","Word":"Apfel","Mp3FilePath":"Apple.de.mp3"},{"Locale":"fr-FR","Word":"pomme","Mp3FilePath":"Apple.fr.mp3"},{"Locale":"sv-SE","Word":"Apple","Mp3FilePath":"Apple.sv.mp3"},{"Locale":"da-DK","Word":"Apple","Mp3FilePath":"Apple.da.mp3"},{"Locale":"fi-FI","Word":"omena","Mp3FilePath":"Apple.fi.mp3"},{"Locale":"es-ES","Word":"manzana","Mp3FilePath":"Apple.es.mp3"},{"Locale":"it-IT","Word":"mela","Mp3FilePath":"Apple.it.mp3"},{"Locale":"ja-JP","Word":"アップル","Mp3FilePath":"Apple.ja.mp3"},{"Locale":"ko-KR","Word":"사과","Mp3FilePath":"Apple.ko.mp3"},{"Locale":"nb-NO","Word":"Apple","Mp3FilePath":"Apple.nb.mp3"},{"Locale":"pt-BR","Word":"maçã","Mp3FilePath":"Apple.pt.mp3"},{"Locale":"ru-RU","Word":"яблоко","Mp3FilePath":"Apple.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Banana","Mp3FilePath":"Banana.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"香蕉","Mp3FilePath":"Banana.zh.mp3"},{"Locale":"de-DE","Word":"Banane","Mp3FilePath":"Banana.de.mp3"},{"Locale":"fr-FR","Word":"banane","Mp3FilePath":"Banana.fr.mp3"},{"Locale":"sv-SE","Word":"banan","Mp3FilePath":"Banana.sv.mp3"},{"Locale":"da-DK","Word":"Banana","Mp3FilePath":"Banana.da.mp3"},{"Locale":"fi-FI","Word":"banaani","Mp3FilePath":"Banana.fi.mp3"},{"Locale":"es-ES","Word":"plátano","Mp3FilePath":"Banana.es.mp3"},{"Locale":"it-IT","Word":"banana","Mp3FilePath":"Banana.it.mp3"},{"Locale":"ja-JP","Word":"バナナ","Mp3FilePath":"Banana.ja.mp3"},{"Locale":"ko-KR","Word":"바나나","Mp3FilePath":"Banana.ko.mp3"},{"Locale":"nb-NO","Word":"Banana","Mp3FilePath":"Banana.nb.mp3"},{"Locale":"pt-BR","Word":"banana","Mp3FilePath":"Banana.pt.mp3"},{"Locale":"ru-RU","Word":"банан","Mp3FilePath":"Banana.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Cherry","Mp3FilePath":"Cherry.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"樱桃","Mp3FilePath":"Cherry.zh.mp3"},{"Locale":"de-DE","Word":"Kirsche","Mp3FilePath":"Cherry.de.mp3"},{"Locale":"fr-FR","Word":"cerise","Mp3FilePath":"Cherry.fr.mp3"},{"Locale":"sv-SE","Word":"Körsbär","Mp3FilePath":"Cherry.sv.mp3"},{"Locale":"da-DK","Word":"Cherry","Mp3FilePath":"Cherry.da.mp3"},{"Locale":"fi-FI","Word":"kirsikka","Mp3FilePath":"Cherry.fi.mp3"},{"Locale":"es-ES","Word":"cereza","Mp3FilePath":"Cherry.es.mp3"},{"Locale":"it-IT","Word":"ciliegia","Mp3FilePath":"Cherry.it.mp3"},{"Locale":"ja-JP","Word":"チェリー","Mp3FilePath":"Cherry.ja.mp3"},{"Locale":"ko-KR","Word":"버찌","Mp3FilePath":"Cherry.ko.mp3"},{"Locale":"nb-NO","Word":"Cherry","Mp3FilePath":"Cherry.nb.mp3"},{"Locale":"pt-BR","Word":"cereja","Mp3FilePath":"Cherry.pt.mp3"},{"Locale":"ru-RU","Word":"вишня","Mp3FilePath":"Cherry.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Grapes","Mp3FilePath":"Grapes.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"葡萄","Mp3FilePath":"Grapes.zh.mp3"},{"Locale":"de-DE","Word":"Trauben","Mp3FilePath":"Grapes.de.mp3"},{"Locale":"fr-FR","Word":"raisin","Mp3FilePath":"Grapes.fr.mp3"},{"Locale":"sv-SE","Word":"vindruvor","Mp3FilePath":"Grapes.sv.mp3"},{"Locale":"da-DK","Word":"vindruer","Mp3FilePath":"Grapes.da.mp3"},{"Locale":"fi-FI","Word":"viinirypäleet","Mp3FilePath":"Grapes.fi.mp3"},{"Locale":"es-ES","Word":"uvas","Mp3FilePath":"Grapes.es.mp3"},{"Locale":"it-IT","Word":"uva","Mp3FilePath":"Grapes.it.mp3"},{"Locale":"ja-JP","Word":"葡萄","Mp3FilePath":"Grapes.ja.mp3"},{"Locale":"ko-KR","Word":"포도","Mp3FilePath":"Grapes.ko.mp3"},{"Locale":"nb-NO","Word":"druer","Mp3FilePath":"Grapes.nb.mp3"},{"Locale":"pt-BR","Word":"uvas","Mp3FilePath":"Grapes.pt.mp3"},{"Locale":"ru-RU","Word":"виноград","Mp3FilePath":"Grapes.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Kiwi","Mp3FilePath":"Kiwi.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"猕猴桃","Mp3FilePath":"Kiwi.zh.mp3"},{"Locale":"de-DE","Word":"kiwi","Mp3FilePath":"Kiwi.de.mp3"},{"Locale":"fr-FR","Word":"kiwi","Mp3FilePath":"Kiwi.fr.mp3"},{"Locale":"sv-SE","Word":"kiwi","Mp3FilePath":"Kiwi.sv.mp3"},{"Locale":"da-DK","Word":"kiwi","Mp3FilePath":"Kiwi.da.mp3"},{"Locale":"fi-FI","Word":"kiivi","Mp3FilePath":"Kiwi.fi.mp3"},{"Locale":"es-ES","Word":"kiwi","Mp3FilePath":"Kiwi.es.mp3"},{"Locale":"it-IT","Word":"kiwi","Mp3FilePath":"Kiwi.it.mp3"},{"Locale":"ja-JP","Word":"キウイ","Mp3FilePath":"Kiwi.ja.mp3"},{"Locale":"ko-KR","Word":"키위","Mp3FilePath":"Kiwi.ko.mp3"},{"Locale":"nb-NO","Word":"kiwi","Mp3FilePath":"Kiwi.nb.mp3"},{"Locale":"pt-BR","Word":"kiwi","Mp3FilePath":"Kiwi.pt.mp3"},{"Locale":"ru-RU","Word":"киви","Mp3FilePath":"Kiwi.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Lemon","Mp3FilePath":"Lemon.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"柠檬","Mp3FilePath":"Lemon.zh.mp3"},{"Locale":"de-DE","Word":"Zitrone","Mp3FilePath":"Lemon.de.mp3"},{"Locale":"fr-FR","Word":"citron","Mp3FilePath":"Lemon.fr.mp3"},{"Locale":"sv-SE","Word":"citron","Mp3FilePath":"Lemon.sv.mp3"},{"Locale":"da-DK","Word":"Lemon","Mp3FilePath":"Lemon.da.mp3"},{"Locale":"fi-FI","Word":"sitruuna","Mp3FilePath":"Lemon.fi.mp3"},{"Locale":"es-ES","Word":"limón","Mp3FilePath":"Lemon.es.mp3"},{"Locale":"it-IT","Word":"limone","Mp3FilePath":"Lemon.it.mp3"},{"Locale":"ja-JP","Word":"レモン","Mp3FilePath":"Lemon.ja.mp3"},{"Locale":"ko-KR","Word":"레몬","Mp3FilePath":"Lemon.ko.mp3"},{"Locale":"nb-NO","Word":"Lemon","Mp3FilePath":"Lemon.nb.mp3"},{"Locale":"pt-BR","Word":"limão","Mp3FilePath":"Lemon.pt.mp3"},{"Locale":"ru-RU","Word":"лимон","Mp3FilePath":"Lemon.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Orange","Mp3FilePath":"Orange.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"橙","Mp3FilePath":"Orange.zh.mp3"},{"Locale":"de-DE","Word":"orange","Mp3FilePath":"Orange.de.mp3"},{"Locale":"fr-FR","Word":"orange","Mp3FilePath":"Orange.fr.mp3"},{"Locale":"sv-SE","Word":"Orange","Mp3FilePath":"Orange.sv.mp3"},{"Locale":"da-DK","Word":"Orange","Mp3FilePath":"Orange.da.mp3"},{"Locale":"fi-FI","Word":"oranssi","Mp3FilePath":"Orange.fi.mp3"},{"Locale":"es-ES","Word":"naranja","Mp3FilePath":"Orange.es.mp3"},{"Locale":"it-IT","Word":"arancione","Mp3FilePath":"Orange.it.mp3"},{"Locale":"ja-JP","Word":"オレンジ","Mp3FilePath":"Orange.ja.mp3"},{"Locale":"ko-KR","Word":"오렌지","Mp3FilePath":"Orange.ko.mp3"},{"Locale":"nb-NO","Word":"Orange","Mp3FilePath":"Orange.nb.mp3"},{"Locale":"pt-BR","Word":"laranja","Mp3FilePath":"Orange.pt.mp3"},{"Locale":"ru-RU","Word":"оранжевый","Mp3FilePath":"Orange.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Peach","Mp3FilePath":"Peach.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"桃","Mp3FilePath":"Peach.zh.mp3"},{"Locale":"de-DE","Word":"Pfirsich","Mp3FilePath":"Peach.de.mp3"},{"Locale":"fr-FR","Word":"pêche","Mp3FilePath":"Peach.fr.mp3"},{"Locale":"sv-SE","Word":"Persika","Mp3FilePath":"Peach.sv.mp3"},{"Locale":"da-DK","Word":"Peach","Mp3FilePath":"Peach.da.mp3"},{"Locale":"fi-FI","Word":"persikka","Mp3FilePath":"Peach.fi.mp3"},{"Locale":"es-ES","Word":"melocotón","Mp3FilePath":"Peach.es.mp3"},{"Locale":"it-IT","Word":"pesca","Mp3FilePath":"Peach.it.mp3"},{"Locale":"ja-JP","Word":"ピーチ","Mp3FilePath":"Peach.ja.mp3"},{"Locale":"ko-KR","Word":"복숭아","Mp3FilePath":"Peach.ko.mp3"},{"Locale":"nb-NO","Word":"fersken","Mp3FilePath":"Peach.nb.mp3"},{"Locale":"pt-BR","Word":"pêssego","Mp3FilePath":"Peach.pt.mp3"},{"Locale":"ru-RU","Word":"персик","Mp3FilePath":"Peach.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Pear","Mp3FilePath":"Pear.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"梨","Mp3FilePath":"Pear.zh.mp3"},{"Locale":"de-DE","Word":"Birne","Mp3FilePath":"Pear.de.mp3"},{"Locale":"fr-FR","Word":"poire","Mp3FilePath":"Pear.fr.mp3"},{"Locale":"sv-SE","Word":"Päron","Mp3FilePath":"Pear.sv.mp3"},{"Locale":"da-DK","Word":"pære","Mp3FilePath":"Pear.da.mp3"},{"Locale":"fi-FI","Word":"päärynä","Mp3FilePath":"Pear.fi.mp3"},{"Locale":"es-ES","Word":"pera","Mp3FilePath":"Pear.es.mp3"},{"Locale":"it-IT","Word":"pera","Mp3FilePath":"Pear.it.mp3"},{"Locale":"ja-JP","Word":"梨","Mp3FilePath":"Pear.ja.mp3"},{"Locale":"ko-KR","Word":"배","Mp3FilePath":"Pear.ko.mp3"},{"Locale":"nb-NO","Word":"Pear","Mp3FilePath":"Pear.nb.mp3"},{"Locale":"pt-BR","Word":"pereira","Mp3FilePath":"Pear.pt.mp3"},{"Locale":"ru-RU","Word":"груша","Mp3FilePath":"Pear.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Raspberry","Mp3FilePath":"Raspberry.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"覆盆子","Mp3FilePath":"Raspberry.zh.mp3"},{"Locale":"de-DE","Word":"Himbeere","Mp3FilePath":"Raspberry.de.mp3"},{"Locale":"fr-FR","Word":"framboise","Mp3FilePath":"Raspberry.fr.mp3"},{"Locale":"sv-SE","Word":"Hallon","Mp3FilePath":"Raspberry.sv.mp3"},{"Locale":"da-DK","Word":"hindbær","Mp3FilePath":"Raspberry.da.mp3"},{"Locale":"fi-FI","Word":"vadelma","Mp3FilePath":"Raspberry.fi.mp3"},{"Locale":"es-ES","Word":"frambuesa","Mp3FilePath":"Raspberry.es.mp3"},{"Locale":"it-IT","Word":"lampone","Mp3FilePath":"Raspberry.it.mp3"},{"Locale":"ja-JP","Word":"ラズベリー","Mp3FilePath":"Raspberry.ja.mp3"},{"Locale":"ko-KR","Word":"나무 딸기","Mp3FilePath":"Raspberry.ko.mp3"},{"Locale":"nb-NO","Word":"bringebær","Mp3FilePath":"Raspberry.nb.mp3"},{"Locale":"pt-BR","Word":"framboesa","Mp3FilePath":"Raspberry.pt.mp3"},{"Locale":"ru-RU","Word":"малина","Mp3FilePath":"Raspberry.ru.mp3"}]},{"Default":{"Locale":"en-US","Word":"Strawberry","Mp3FilePath":"Strawberry.en.mp3"},"LocalizedItems":[{"Locale":"zh-CN","Word":"草莓","Mp3FilePath":"Strawberry.zh.mp3"},{"Locale":"de-DE","Word":"Erdbeere","Mp3FilePath":"Strawberry.de.mp3"},{"Locale":"fr-FR","Word":"fraise","Mp3FilePath":"Strawberry.fr.mp3"},{"Locale":"sv-SE","Word":"Jordgubbe","Mp3FilePath":"Strawberry.sv.mp3"},{"Locale":"da-DK","Word":"Strawberry","Mp3FilePath":"Strawberry.da.mp3"},{"Locale":"fi-FI","Word":"mansikka","Mp3FilePath":"Strawberry.fi.mp3"},{"Locale":"es-ES","Word":"fresa","Mp3FilePath":"Strawberry.es.mp3"},{"Locale":"it-IT","Word":"fragola","Mp3FilePath":"Strawberry.it.mp3"},{"Locale":"ja-JP","Word":"イチゴ","Mp3FilePath":"Strawberry.ja.mp3"},{"Locale":"ko-KR","Word":"딸기","Mp3FilePath":"Strawberry.ko.mp3"},{"Locale":"nb-NO","Word":"Strawberry","Mp3FilePath":"Strawberry.nb.mp3"},{"Locale":"pt-BR","Word":"morango","Mp3FilePath":"Strawberry.pt.mp3"},{"Locale":"ru-RU","Word":"клубника","Mp3FilePath":"Strawberry.ru.mp3"}]}]}
+﻿{
+  "Version": "1.0.6",
+  "Items": [
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Blue",
+        "Mp3FilePath": "Blue.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "蓝色",
+          "Mp3FilePath": "Blue.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "blau",
+          "Mp3FilePath": "Blue.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "bleu",
+          "Mp3FilePath": "Blue.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Blå",
+          "Mp3FilePath": "Blue.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "blå",
+          "Mp3FilePath": "Blue.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "sininen",
+          "Mp3FilePath": "Blue.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "azul",
+          "Mp3FilePath": "Blue.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "blu",
+          "Mp3FilePath": "Blue.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "青",
+          "Mp3FilePath": "Blue.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "푸른",
+          "Mp3FilePath": "Blue.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "blå",
+          "Mp3FilePath": "Blue.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "azul",
+          "Mp3FilePath": "Blue.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "синий",
+          "Mp3FilePath": "Blue.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Brown",
+        "Mp3FilePath": "Brown.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "棕色",
+          "Mp3FilePath": "Brown.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "braun",
+          "Mp3FilePath": "Brown.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "brun",
+          "Mp3FilePath": "Brown.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Brun",
+          "Mp3FilePath": "Brown.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "Brown",
+          "Mp3FilePath": "Brown.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "ruskea",
+          "Mp3FilePath": "Brown.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "marrón",
+          "Mp3FilePath": "Brown.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "marrone",
+          "Mp3FilePath": "Brown.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "ブラウン",
+          "Mp3FilePath": "Brown.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "갈색",
+          "Mp3FilePath": "Brown.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "Brown",
+          "Mp3FilePath": "Brown.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "marrom",
+          "Mp3FilePath": "Brown.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "коричневый",
+          "Mp3FilePath": "Brown.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Orange",
+        "Mp3FilePath": "Orange.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "橙",
+          "Mp3FilePath": "Orange.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "orange",
+          "Mp3FilePath": "Orange.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "orange",
+          "Mp3FilePath": "Orange.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Orange",
+          "Mp3FilePath": "Orange.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "Orange",
+          "Mp3FilePath": "Orange.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "oranssi",
+          "Mp3FilePath": "Orange.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "naranja",
+          "Mp3FilePath": "Orange.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "arancione",
+          "Mp3FilePath": "Orange.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "オレンジ",
+          "Mp3FilePath": "Orange.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "오렌지",
+          "Mp3FilePath": "Orange.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "Orange",
+          "Mp3FilePath": "Orange.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "laranja",
+          "Mp3FilePath": "Orange.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "оранжевый",
+          "Mp3FilePath": "Orange.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Pink",
+        "Mp3FilePath": "Pink.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "粉红色",
+          "Mp3FilePath": "Pink.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "rosa",
+          "Mp3FilePath": "Pink.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "rose",
+          "Mp3FilePath": "Pink.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Rosa",
+          "Mp3FilePath": "Pink.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "Pink",
+          "Mp3FilePath": "Pink.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "vaaleanpunainen",
+          "Mp3FilePath": "Pink.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "rosa",
+          "Mp3FilePath": "Pink.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "rosa",
+          "Mp3FilePath": "Pink.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "ピンク",
+          "Mp3FilePath": "Pink.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "핑크",
+          "Mp3FilePath": "Pink.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "Pink",
+          "Mp3FilePath": "Pink.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "rosa",
+          "Mp3FilePath": "Pink.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "розовый",
+          "Mp3FilePath": "Pink.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Purple",
+        "Mp3FilePath": "Purple.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "紫色",
+          "Mp3FilePath": "Purple.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "lila",
+          "Mp3FilePath": "Purple.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "pourpre",
+          "Mp3FilePath": "Purple.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Lila",
+          "Mp3FilePath": "Purple.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "lilla",
+          "Mp3FilePath": "Purple.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "violetti",
+          "Mp3FilePath": "Purple.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "púrpura",
+          "Mp3FilePath": "Purple.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "porpora",
+          "Mp3FilePath": "Purple.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "パープル",
+          "Mp3FilePath": "Purple.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "자",
+          "Mp3FilePath": "Purple.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "lilla",
+          "Mp3FilePath": "Purple.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "roxo",
+          "Mp3FilePath": "Purple.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "фиолетовый",
+          "Mp3FilePath": "Purple.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Red",
+        "Mp3FilePath": "Red.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "红",
+          "Mp3FilePath": "Red.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "rot",
+          "Mp3FilePath": "Red.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "rouge",
+          "Mp3FilePath": "Red.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Röd",
+          "Mp3FilePath": "Red.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "rød",
+          "Mp3FilePath": "Red.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "punainen",
+          "Mp3FilePath": "Red.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "rojo",
+          "Mp3FilePath": "Red.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "rosso",
+          "Mp3FilePath": "Red.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "レッド",
+          "Mp3FilePath": "Red.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "빨강",
+          "Mp3FilePath": "Red.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "Red",
+          "Mp3FilePath": "Red.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "vermelho",
+          "Mp3FilePath": "Red.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "красный",
+          "Mp3FilePath": "Red.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Yellow",
+        "Mp3FilePath": "Yellow.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "黄色",
+          "Mp3FilePath": "Yellow.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "gelb",
+          "Mp3FilePath": "Yellow.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "jaune",
+          "Mp3FilePath": "Yellow.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Gul",
+          "Mp3FilePath": "Yellow.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "gul",
+          "Mp3FilePath": "Yellow.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "keltainen",
+          "Mp3FilePath": "Yellow.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "amarillo",
+          "Mp3FilePath": "Yellow.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "giallo",
+          "Mp3FilePath": "Yellow.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "イエロー",
+          "Mp3FilePath": "Yellow.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "황색",
+          "Mp3FilePath": "Yellow.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "gul",
+          "Mp3FilePath": "Yellow.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "amarelo",
+          "Mp3FilePath": "Yellow.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "желтый",
+          "Mp3FilePath": "Yellow.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Green",
+        "Mp3FilePath": "Green.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "绿色",
+          "Mp3FilePath": "Green.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "grün",
+          "Mp3FilePath": "Green.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "vert",
+          "Mp3FilePath": "Green.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Grön",
+          "Mp3FilePath": "Green.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "grøn",
+          "Mp3FilePath": "Green.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "vihreä",
+          "Mp3FilePath": "Green.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "verde",
+          "Mp3FilePath": "Green.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "verde",
+          "Mp3FilePath": "Green.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "緑",
+          "Mp3FilePath": "Green.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "녹색",
+          "Mp3FilePath": "Green.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "grønn",
+          "Mp3FilePath": "Green.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "verde",
+          "Mp3FilePath": "Green.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "зеленый",
+          "Mp3FilePath": "Green.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Black",
+        "Mp3FilePath": "Black.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "黑色",
+          "Mp3FilePath": "Black.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "schwarz",
+          "Mp3FilePath": "Black.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "noir",
+          "Mp3FilePath": "Black.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Svart",
+          "Mp3FilePath": "Black.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "Sort",
+          "Mp3FilePath": "Black.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "musta",
+          "Mp3FilePath": "Black.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "negro",
+          "Mp3FilePath": "Black.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "nero",
+          "Mp3FilePath": "Black.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "ブラック",
+          "Mp3FilePath": "Black.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "검정",
+          "Mp3FilePath": "Black.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "Svart",
+          "Mp3FilePath": "Black.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "preto",
+          "Mp3FilePath": "Black.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "черный",
+          "Mp3FilePath": "Black.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "White",
+        "Mp3FilePath": "White.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "白",
+          "Mp3FilePath": "White.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "weiß",
+          "Mp3FilePath": "White.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "blanc",
+          "Mp3FilePath": "White.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Vit",
+          "Mp3FilePath": "White.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "Hvid",
+          "Mp3FilePath": "White.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "valkoinen",
+          "Mp3FilePath": "White.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "blanco",
+          "Mp3FilePath": "White.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "bianco",
+          "Mp3FilePath": "White.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "白",
+          "Mp3FilePath": "White.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "화이트",
+          "Mp3FilePath": "White.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "hvit",
+          "Mp3FilePath": "White.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "branco",
+          "Mp3FilePath": "White.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "белый",
+          "Mp3FilePath": "White.ru.mp3"
+        }
+      ]
+    },
+    {
+      "Default": {
+        "Language": "en",
+        "Word": "Gray",
+        "Mp3FilePath": "Gray.en.mp3"
+      },
+      "LocalizedItems": [
+        {
+          "Language": "zh",
+          "Word": "灰色",
+          "Mp3FilePath": "Gray.zh.mp3"
+        },
+        {
+          "Language": "de",
+          "Word": "grau",
+          "Mp3FilePath": "Gray.de.mp3"
+        },
+        {
+          "Language": "fr",
+          "Word": "gris",
+          "Mp3FilePath": "Gray.fr.mp3"
+        },
+        {
+          "Language": "sv",
+          "Word": "Gray",
+          "Mp3FilePath": "Gray.sv.mp3"
+        },
+        {
+          "Language": "da",
+          "Word": "Gray",
+          "Mp3FilePath": "Gray.da.mp3"
+        },
+        {
+          "Language": "fi",
+          "Word": "harmaa",
+          "Mp3FilePath": "Gray.fi.mp3"
+        },
+        {
+          "Language": "es",
+          "Word": "gris",
+          "Mp3FilePath": "Gray.es.mp3"
+        },
+        {
+          "Language": "it",
+          "Word": "grigio",
+          "Mp3FilePath": "Gray.it.mp3"
+        },
+        {
+          "Language": "ja",
+          "Word": "グレー",
+          "Mp3FilePath": "Gray.ja.mp3"
+        },
+        {
+          "Language": "ko",
+          "Word": "회색",
+          "Mp3FilePath": "Gray.ko.mp3"
+        },
+        {
+          "Language": "nb",
+          "Word": "Gray",
+          "Mp3FilePath": "Gray.nb.mp3"
+        },
+        {
+          "Language": "pt",
+          "Word": "cinza",
+          "Mp3FilePath": "Gray.pt.mp3"
+        },
+        {
+          "Language": "ru",
+          "Word": "Грэй",
+          "Mp3FilePath": "Gray.ru.mp3"
+        }
+      ]
+    }
+  ]
+}
