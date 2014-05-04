@@ -1,21 +1,21 @@
 {
   "Version": "0.0.2",
-  "DefaultLocale": "en-US",
-  "Locales": [
-    "en-US",
-    "zh-CN",
-    "de-DE",
-    "fr-FR",
-    "sv-SE",
-    "da-DK",
-    "fi-FI",
-    "es-ES",
-    "it-IT",
-    "ja-JP",
-    "ko-KR",
-    "nb-NO",
-    "pt-BR",
-    "ru-RU"
+  "DefaultLangauage": "en",
+  "Languages": [
+    "en",
+    "zh",
+    "de",
+    "fr",
+    "sv",
+    "da",
+    "fi",
+    "es",
+    "it",
+    "ja",
+    "ko",
+    "nb",
+    "pt",
+    "ru"
   ],
   "Decks": [
     {
@@ -26,59 +26,59 @@
 
       "Localized": [
         {
-          "Locale": "en-US",
+          "Language": "en",
           "Word": "Fruits"
         },
         {
-          "Locale": "zh-CN",
+          "Language": "zh",
           "Word": "Fruits"
         },
         {
-          "Locale": "de-DE",
+          "Language": "de",
           "Word": "Fruits"
         },
         {
-          "Locale": "fr-FR",
+          "Language": "fr",
           "Word": "Fruits"
         },
         {
-          "Locale": "sv-SE",
+          "Language": "sv-SE",
           "Word": "Fruits"
         },
         {
-          "Locale": "da-DK",
+          "Language": "da-DK",
           "Word": "Fruits"
         },
         {
-          "Locale": "fi-FI",
+          "Language": "fi-FI",
           "Word": "Fruits"
         },
         {
-          "Locale": "es-ES",
+          "Language": "es-ES",
           "Word": "Fruits"
         },
         {
-          "Locale": "it-IT",
+          "Language": "it-IT",
           "Word": "Fruits"
         },
         {
-          "Locale": "ja-JP",
+          "Language": "ja-JP",
           "Word": "Fruits"
         },
         {
-          "Locale": "ko-KR",
+          "Language": "ko-KR",
           "Word": "Fruits"
         },
         {
-          "Locale": "nb-NO",
+          "Language": "nb-NO",
           "Word": "Fruits"
         },
         {
-          "Locale": "pt-BR",
+          "Language": "pt-BR",
           "Word": "Fruits"
         },
         {
-          "Locale": "ru-RU",
+          "Language": "ru-RU",
           "Word": "Fruits"
         }
       ]
@@ -90,59 +90,59 @@
       "Identifier": "12345677899900",
       "Localized": [
         {
-          "Locale": "en-US",
+          "Language": "en",
           "Word": "Numbers"
         },
         {
-          "Locale": "zh-CN",
+          "Language": "zh",
           "Word": "Numbers"
         },
         {
-          "Locale": "de-DE",
+          "Language": "de",
           "Word": "Numbers"
         },
         {
-          "Locale": "fr-FR",
+          "Language": "fr",
           "Word": "Numbers"
         },
         {
-          "Locale": "sv-SE",
+          "Language": "sv-SE",
           "Word": "Siffror"
         },
         {
-          "Locale": "da-DK",
+          "Language": "da-DK",
           "Word": "Numbers"
         },
         {
-          "Locale": "fi-FI",
+          "Language": "fi-FI",
           "Word": "Numbers"
         },
         {
-          "Locale": "es-ES",
+          "Language": "es-ES",
           "Word": "Numbers"
         },
         {
-          "Locale": "it-IT",
+          "Language": "it-IT",
           "Word": "Numbers"
         },
         {
-          "Locale": "ja-JP",
+          "Language": "ja-JP",
           "Word": "Numbers"
         },
         {
-          "Locale": "ko-KR",
+          "Language": "ko-KR",
           "Word": "Numbers"
         },
         {
-          "Locale": "nb-NO",
+          "Language": "nb-NO",
           "Word": "Numbers"
         },
         {
-          "Locale": "pt-BR",
+          "Language": "pt-BR",
           "Word": "Numbers"
         },
         {
-          "Locale": "ru-RU",
+          "Language": "ru-RU",
           "Word": "Numbers"
         }
       ]
@@ -154,59 +154,59 @@
       "Identifier": "12345677899900",
       "Localized": [
         {
-          "Locale": "en-US",
+          "Language": "en",
           "Word": "Colors"
         },
         {
-          "Locale": "zh-CN",
+          "Language": "zh",
           "Word": "Numbers"
         },
         {
-          "Locale": "de-DE",
+          "Language": "de",
           "Word": "Numbers"
         },
         {
-          "Locale": "fr-FR",
+          "Language": "fr",
           "Word": "Numbers"
         },
         {
-          "Locale": "sv-SE",
+          "Language": "sv-SE",
           "Word": "Färger"
         },
         {
-          "Locale": "da-DK",
+          "Language": "da-DK",
           "Word": "Numbers"
         },
         {
-          "Locale": "fi-FI",
+          "Language": "fi-FI",
           "Word": "Numbers"
         },
         {
-          "Locale": "es-ES",
+          "Language": "es-ES",
           "Word": "Numbers"
         },
         {
-          "Locale": "it-IT",
+          "Language": "it-IT",
           "Word": "Numbers"
         },
         {
-          "Locale": "ja-JP",
+          "Language": "ja-JP",
           "Word": "Numbers"
         },
         {
-          "Locale": "ko-KR",
+          "Language": "ko-KR",
           "Word": "Numbers"
         },
         {
-          "Locale": "nb-NO",
+          "Language": "nb-NO",
           "Word": "Numbers"
         },
         {
-          "Locale": "pt-BR",
+          "Language": "pt-BR",
           "Word": "Numbers"
         },
         {
-          "Locale": "ru-RU",
+          "Language": "ru-RU",
           "Word": "Numbers"
         }
       ]
