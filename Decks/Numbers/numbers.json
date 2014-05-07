@@ -1,5 +1,21 @@
 ﻿{
   "Version": "0.0.1",
+  "Languages": [
+    "da",
+    "de",
+    "en",
+    "es",
+    "fi",
+    "fr",
+    "it",
+    "ja",
+    "ko",
+    "nb",
+    "pt",
+    "ru",
+    "sv",
+    "zh"
+  ],
   "Items": [
     {
       "Word": "One",
