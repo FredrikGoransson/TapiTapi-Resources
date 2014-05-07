@@ -1,744 +1,194 @@
 ﻿{
-  "Version": "1.0.6",
+  "Version": "0.0.1",
   "Items": [
     {
-      "Default": {
-        "Language": "en",
-        "Word": "One",
-        "Mp3FilePath": "One.en.mp3"
-      },
-      "LocalizedItems": [
-        {
-          "Language": "zh",
-          "Word": "一",
-          "Mp3FilePath": "One.zh.mp3"
-        },
-        {
-          "Language": "de",
-          "Word": "ein",
-          "Mp3FilePath": "One.de.mp3"
-        },
-        {
-          "Language": "fr",
-          "Word": "un",
-          "Mp3FilePath": "One.fr.mp3"
-        },
-        {
-          "Language": "sv",
-          "Word": "One",
-          "Mp3FilePath": "One.sv.mp3"
-        },
-        {
-          "Language": "da",
-          "Word": "én",
-          "Mp3FilePath": "One.da.mp3"
-        },
-        {
-          "Language": "fi",
-          "Word": "yksi",
-          "Mp3FilePath": "One.fi.mp3"
-        },
-        {
-          "Language": "es",
-          "Word": "uno",
-          "Mp3FilePath": "One.es.mp3"
-        },
-        {
-          "Language": "it",
-          "Word": "uno",
-          "Mp3FilePath": "One.it.mp3"
-        },
-        {
-          "Language": "ja",
-          "Word": "1",
-          "Mp3FilePath": "One.ja.mp3"
-        },
-        {
-          "Language": "ko",
-          "Word": "한",
-          "Mp3FilePath": "One.ko.mp3"
-        },
-        {
-          "Language": "nb",
-          "Word": "ett",
-          "Mp3FilePath": "One.nb.mp3"
-        },
-        {
-          "Language": "pt",
-          "Word": "um",
-          "Mp3FilePath": "One.pt.mp3"
-        },
-        {
-          "Language": "ru",
-          "Word": "один",
-          "Mp3FilePath": "One.ru.mp3"
-        }
+      "Word": "One",
+      "Localized": [
+        "én",
+        "ein",
+        "One",
+        "uno",
+        "yksi",
+        "un",
+        "uno",
+        "1",
+        "한",
+        "ett",
+        "um",
+        "один",
+        "One",
+        "一"
       ]
     },
     {
-      "Default": {
-        "Language": "en",
-        "Word": "Two",
-        "Mp3FilePath": "Two.en.mp3"
-      },
-      "LocalizedItems": [
-        {
-          "Language": "zh",
-          "Word": "二",
-          "Mp3FilePath": "Two.zh.mp3"
-        },
-        {
-          "Language": "de",
-          "Word": "zwei",
-          "Mp3FilePath": "Two.de.mp3"
-        },
-        {
-          "Language": "fr",
-          "Word": "deux",
-          "Mp3FilePath": "Two.fr.mp3"
-        },
-        {
-          "Language": "sv",
-          "Word": "Två",
-          "Mp3FilePath": "Two.sv.mp3"
-        },
-        {
-          "Language": "da",
-          "Word": "to",
-          "Mp3FilePath": "Two.da.mp3"
-        },
-        {
-          "Language": "fi",
-          "Word": "kaksi",
-          "Mp3FilePath": "Two.fi.mp3"
-        },
-        {
-          "Language": "es",
-          "Word": "dos",
-          "Mp3FilePath": "Two.es.mp3"
-        },
-        {
-          "Language": "it",
-          "Word": "due",
-          "Mp3FilePath": "Two.it.mp3"
-        },
-        {
-          "Language": "ja",
-          "Word": "2",
-          "Mp3FilePath": "Two.ja.mp3"
-        },
-        {
-          "Language": "ko",
-          "Word": "두",
-          "Mp3FilePath": "Two.ko.mp3"
-        },
-        {
-          "Language": "nb",
-          "Word": "to",
-          "Mp3FilePath": "Two.nb.mp3"
-        },
-        {
-          "Language": "pt",
-          "Word": "dois",
-          "Mp3FilePath": "Two.pt.mp3"
-        },
-        {
-          "Language": "ru",
-          "Word": "два",
-          "Mp3FilePath": "Two.ru.mp3"
-        }
+      "Word": "Two",
+      "Localized": [
+        "to",
+        "zwei",
+        "Two",
+        "dos",
+        "kaksi",
+        "deux",
+        "due",
+        "2",
+        "두",
+        "to",
+        "dois",
+        "два",
+        "Två",
+        "二"
       ]
     },
     {
-      "Default": {
-        "Language": "en",
-        "Word": "Three",
-        "Mp3FilePath": "Three.en.mp3"
-      },
-      "LocalizedItems": [
-        {
-          "Language": "zh",
-          "Word": "三",
-          "Mp3FilePath": "Three.zh.mp3"
-        },
-        {
-          "Language": "de",
-          "Word": "drei",
-          "Mp3FilePath": "Three.de.mp3"
-        },
-        {
-          "Language": "fr",
-          "Word": "trois",
-          "Mp3FilePath": "Three.fr.mp3"
-        },
-        {
-          "Language": "sv",
-          "Word": "Tre",
-          "Mp3FilePath": "Three.sv.mp3"
-        },
-        {
-          "Language": "da",
-          "Word": "tre",
-          "Mp3FilePath": "Three.da.mp3"
-        },
-        {
-          "Language": "fi",
-          "Word": "kolme",
-          "Mp3FilePath": "Three.fi.mp3"
-        },
-        {
-          "Language": "es",
-          "Word": "tres",
-          "Mp3FilePath": "Three.es.mp3"
-        },
-        {
-          "Language": "it",
-          "Word": "tre",
-          "Mp3FilePath": "Three.it.mp3"
-        },
-        {
-          "Language": "ja",
-          "Word": "3",
-          "Mp3FilePath": "Three.ja.mp3"
-        },
-        {
-          "Language": "ko",
-          "Word": "세",
-          "Mp3FilePath": "Three.ko.mp3"
-        },
-        {
-          "Language": "nb",
-          "Word": "tre",
-          "Mp3FilePath": "Three.nb.mp3"
-        },
-        {
-          "Language": "pt",
-          "Word": "três",
-          "Mp3FilePath": "Three.pt.mp3"
-        },
-        {
-          "Language": "ru",
-          "Word": "три",
-          "Mp3FilePath": "Three.ru.mp3"
-        }
+      "Word": "Three",
+      "Localized": [
+        "tre",
+        "drei",
+        "Three",
+        "tres",
+        "kolme",
+        "trois",
+        "tre",
+        "3",
+        "세",
+        "tre",
+        "três",
+        "три",
+        "Tre",
+        "三"
       ]
     },
     {
-      "Default": {
-        "Language": "en",
-        "Word": "Four",
-        "Mp3FilePath": "Four.en.mp3"
-      },
-      "LocalizedItems": [
-        {
-          "Language": "zh",
-          "Word": "四",
-          "Mp3FilePath": "Four.zh.mp3"
-        },
-        {
-          "Language": "de",
-          "Word": "vier",
-          "Mp3FilePath": "Four.de.mp3"
-        },
-        {
-          "Language": "fr",
-          "Word": "quatre",
-          "Mp3FilePath": "Four.fr.mp3"
-        },
-        {
-          "Language": "sv",
-          "Word": "Fyra",
-          "Mp3FilePath": "Four.sv.mp3"
-        },
-        {
-          "Language": "da",
-          "Word": "fire",
-          "Mp3FilePath": "Four.da.mp3"
-        },
-        {
-          "Language": "fi",
-          "Word": "neljä",
-          "Mp3FilePath": "Four.fi.mp3"
-        },
-        {
-          "Language": "es",
-          "Word": "cuatro",
-          "Mp3FilePath": "Four.es.mp3"
-        },
-        {
-          "Language": "it",
-          "Word": "quattro",
-          "Mp3FilePath": "Four.it.mp3"
-        },
-        {
-          "Language": "ja",
-          "Word": "4つの",
-          "Mp3FilePath": "Four.ja.mp3"
-        },
-        {
-          "Language": "ko",
-          "Word": "네",
-          "Mp3FilePath": "Four.ko.mp3"
-        },
-        {
-          "Language": "nb",
-          "Word": "fire",
-          "Mp3FilePath": "Four.nb.mp3"
-        },
-        {
-          "Language": "pt",
-          "Word": "quatro",
-          "Mp3FilePath": "Four.pt.mp3"
-        },
-        {
-          "Language": "ru",
-          "Word": "четыре",
-          "Mp3FilePath": "Four.ru.mp3"
-        }
+      "Word": "Four",
+      "Localized": [
+        "fire",
+        "vier",
+        "Four",
+        "cuatro",
+        "neljä",
+        "quatre",
+        "quattro",
+        "4つの",
+        "네",
+        "fire",
+        "quatro",
+        "четыре",
+        "Fyra",
+        "四"
       ]
     },
     {
-      "Default": {
-        "Language": "en",
-        "Word": "Five",
-        "Mp3FilePath": "Five.en.mp3"
-      },
-      "LocalizedItems": [
-        {
-          "Language": "zh",
-          "Word": "五",
-          "Mp3FilePath": "Five.zh.mp3"
-        },
-        {
-          "Language": "de",
-          "Word": "fünf",
-          "Mp3FilePath": "Five.de.mp3"
-        },
-        {
-          "Language": "fr",
-          "Word": "cinq",
-          "Mp3FilePath": "Five.fr.mp3"
-        },
-        {
-          "Language": "sv",
-          "Word": "Fem",
-          "Mp3FilePath": "Five.sv.mp3"
-        },
-        {
-          "Language": "da",
-          "Word": "fem",
-          "Mp3FilePath": "Five.da.mp3"
-        },
-        {
-          "Language": "fi",
-          "Word": "viisi",
-          "Mp3FilePath": "Five.fi.mp3"
-        },
-        {
-          "Language": "es",
-          "Word": "cinco",
-          "Mp3FilePath": "Five.es.mp3"
-        },
-        {
-          "Language": "it",
-          "Word": "cinque",
-          "Mp3FilePath": "Five.it.mp3"
-        },
-        {
-          "Language": "ja",
-          "Word": "5",
-          "Mp3FilePath": "Five.ja.mp3"
-        },
-        {
-          "Language": "ko",
-          "Word": "다섯",
-          "Mp3FilePath": "Five.ko.mp3"
-        },
-        {
-          "Language": "nb",
-          "Word": "fem",
-          "Mp3FilePath": "Five.nb.mp3"
-        },
-        {
-          "Language": "pt",
-          "Word": "cinco",
-          "Mp3FilePath": "Five.pt.mp3"
-        },
-        {
-          "Language": "ru",
-          "Word": "пять",
-          "Mp3FilePath": "Five.ru.mp3"
-        }
+      "Word": "Five",
+      "Localized": [
+        "fem",
+        "fünf",
+        "Five",
+        "cinco",
+        "viisi",
+        "cinq",
+        "cinque",
+        "5",
+        "다섯",
+        "fem",
+        "cinco",
+        "пять",
+        "Fem",
+        "五"
       ]
     },
     {
-      "Default": {
-        "Language": "en",
-        "Word": "Six",
-        "Mp3FilePath": "Six.en.mp3"
-      },
-      "LocalizedItems": [
-        {
-          "Language": "zh",
-          "Word": "六",
-          "Mp3FilePath": "Six.zh.mp3"
-        },
-        {
-          "Language": "de",
-          "Word": "sechs",
-          "Mp3FilePath": "Six.de.mp3"
-        },
-        {
-          "Language": "fr",
-          "Word": "six",
-          "Mp3FilePath": "Six.fr.mp3"
-        },
-        {
-          "Language": "sv",
-          "Word": "Sex",
-          "Mp3FilePath": "Six.sv.mp3"
-        },
-        {
-          "Language": "da",
-          "Word": "seks",
-          "Mp3FilePath": "Six.da.mp3"
-        },
-        {
-          "Language": "fi",
-          "Word": "kuusi",
-          "Mp3FilePath": "Six.fi.mp3"
-        },
-        {
-          "Language": "es",
-          "Word": "seis",
-          "Mp3FilePath": "Six.es.mp3"
-        },
-        {
-          "Language": "it",
-          "Word": "sei",
-          "Mp3FilePath": "Six.it.mp3"
-        },
-        {
-          "Language": "ja",
-          "Word": "6",
-          "Mp3FilePath": "Six.ja.mp3"
-        },
-        {
-          "Language": "ko",
-          "Word": "여섯",
-          "Mp3FilePath": "Six.ko.mp3"
-        },
-        {
-          "Language": "nb",
-          "Word": "seks",
-          "Mp3FilePath": "Six.nb.mp3"
-        },
-        {
-          "Language": "pt",
-          "Word": "seis",
-          "Mp3FilePath": "Six.pt.mp3"
-        },
-        {
-          "Language": "ru",
-          "Word": "шесть",
-          "Mp3FilePath": "Six.ru.mp3"
-        }
+      "Word": "Six",
+      "Localized": [
+        "seks",
+        "sechs",
+        "Six",
+        "seis",
+        "kuusi",
+        "six",
+        "sei",
+        "6",
+        "여섯",
+        "seks",
+        "seis",
+        "шесть",
+        "Sex",
+        "六"
       ]
     },
     {
-      "Default": {
-        "Language": "en",
-        "Word": "Seven",
-        "Mp3FilePath": "Seven.en.mp3"
-      },
-      "LocalizedItems": [
-        {
-          "Language": "zh",
-          "Word": "七",
-          "Mp3FilePath": "Seven.zh.mp3"
-        },
-        {
-          "Language": "de",
-          "Word": "sieben",
-          "Mp3FilePath": "Seven.de.mp3"
-        },
-        {
-          "Language": "fr",
-          "Word": "sept",
-          "Mp3FilePath": "Seven.fr.mp3"
-        },
-        {
-          "Language": "sv",
-          "Word": "Sju",
-          "Mp3FilePath": "Seven.sv.mp3"
-        },
-        {
-          "Language": "da",
-          "Word": "syv",
-          "Mp3FilePath": "Seven.da.mp3"
-        },
-        {
-          "Language": "fi",
-          "Word": "seitsemän",
-          "Mp3FilePath": "Seven.fi.mp3"
-        },
-        {
-          "Language": "es",
-          "Word": "siete",
-          "Mp3FilePath": "Seven.es.mp3"
-        },
-        {
-          "Language": "it",
-          "Word": "sette",
-          "Mp3FilePath": "Seven.it.mp3"
-        },
-        {
-          "Language": "ja",
-          "Word": "7",
-          "Mp3FilePath": "Seven.ja.mp3"
-        },
-        {
-          "Language": "ko",
-          "Word": "일곱",
-          "Mp3FilePath": "Seven.ko.mp3"
-        },
-        {
-          "Language": "nb",
-          "Word": "Seven",
-          "Mp3FilePath": "Seven.nb.mp3"
-        },
-        {
-          "Language": "pt",
-          "Word": "sete",
-          "Mp3FilePath": "Seven.pt.mp3"
-        },
-        {
-          "Language": "ru",
-          "Word": "семь",
-          "Mp3FilePath": "Seven.ru.mp3"
-        }
+      "Word": "Seven",
+      "Localized": [
+        "syv",
+        "sieben",
+        "Seven",
+        "siete",
+        "seitsemän",
+        "sept",
+        "sette",
+        "7",
+        "일곱",
+        "Seven",
+        "sete",
+        "семь",
+        "Sju",
+        "七"
       ]
     },
     {
-      "Default": {
-        "Language": "en",
-        "Word": "Eight",
-        "Mp3FilePath": "Eight.en.mp3"
-      },
-      "LocalizedItems": [
-        {
-          "Language": "zh",
-          "Word": "八",
-          "Mp3FilePath": "Eight.zh.mp3"
-        },
-        {
-          "Language": "de",
-          "Word": "acht",
-          "Mp3FilePath": "Eight.de.mp3"
-        },
-        {
-          "Language": "fr",
-          "Word": "huit",
-          "Mp3FilePath": "Eight.fr.mp3"
-        },
-        {
-          "Language": "sv",
-          "Word": "Åtta",
-          "Mp3FilePath": "Eight.sv.mp3"
-        },
-        {
-          "Language": "da",
-          "Word": "otte",
-          "Mp3FilePath": "Eight.da.mp3"
-        },
-        {
-          "Language": "fi",
-          "Word": "kahdeksan",
-          "Mp3FilePath": "Eight.fi.mp3"
-        },
-        {
-          "Language": "es",
-          "Word": "ocho",
-          "Mp3FilePath": "Eight.es.mp3"
-        },
-        {
-          "Language": "it",
-          "Word": "otto",
-          "Mp3FilePath": "Eight.it.mp3"
-        },
-        {
-          "Language": "ja",
-          "Word": "8",
-          "Mp3FilePath": "Eight.ja.mp3"
-        },
-        {
-          "Language": "ko",
-          "Word": "여덟",
-          "Mp3FilePath": "Eight.ko.mp3"
-        },
-        {
-          "Language": "nb",
-          "Word": "åtte",
-          "Mp3FilePath": "Eight.nb.mp3"
-        },
-        {
-          "Language": "pt",
-          "Word": "oito",
-          "Mp3FilePath": "Eight.pt.mp3"
-        },
-        {
-          "Language": "ru",
-          "Word": "восемь",
-          "Mp3FilePath": "Eight.ru.mp3"
-        }
+      "Word": "Eight",
+      "Localized": [
+        "otte",
+        "acht",
+        "Eight",
+        "ocho",
+        "kahdeksan",
+        "huit",
+        "otto",
+        "8",
+        "여덟",
+        "åtte",
+        "oito",
+        "восемь",
+        "Åtta",
+        "八"
       ]
     },
     {
-      "Default": {
-        "Language": "en",
-        "Word": "Nine",
-        "Mp3FilePath": "Nine.en.mp3"
-      },
-      "LocalizedItems": [
-        {
-          "Language": "zh",
-          "Word": "九",
-          "Mp3FilePath": "Nine.zh.mp3"
-        },
-        {
-          "Language": "de",
-          "Word": "neun",
-          "Mp3FilePath": "Nine.de.mp3"
-        },
-        {
-          "Language": "fr",
-          "Word": "neuf",
-          "Mp3FilePath": "Nine.fr.mp3"
-        },
-        {
-          "Language": "sv",
-          "Word": "Nio",
-          "Mp3FilePath": "Nine.sv.mp3"
-        },
-        {
-          "Language": "da",
-          "Word": "ni",
-          "Mp3FilePath": "Nine.da.mp3"
-        },
-        {
-          "Language": "fi",
-          "Word": "yhdeksän",
-          "Mp3FilePath": "Nine.fi.mp3"
-        },
-        {
-          "Language": "es",
-          "Word": "nueve",
-          "Mp3FilePath": "Nine.es.mp3"
-        },
-        {
-          "Language": "it",
-          "Word": "nove",
-          "Mp3FilePath": "Nine.it.mp3"
-        },
-        {
-          "Language": "ja",
-          "Word": "9人",
-          "Mp3FilePath": "Nine.ja.mp3"
-        },
-        {
-          "Language": "ko",
-          "Word": "구",
-          "Mp3FilePath": "Nine.ko.mp3"
-        },
-        {
-          "Language": "nb",
-          "Word": "ni",
-          "Mp3FilePath": "Nine.nb.mp3"
-        },
-        {
-          "Language": "pt",
-          "Word": "nove",
-          "Mp3FilePath": "Nine.pt.mp3"
-        },
-        {
-          "Language": "ru",
-          "Word": "девять",
-          "Mp3FilePath": "Nine.ru.mp3"
-        }
+      "Word": "Nine",
+      "Localized": [
+        "ni",
+        "neun",
+        "Nine",
+        "nueve",
+        "yhdeksän",
+        "neuf",
+        "nove",
+        "9人",
+        "구",
+        "ni",
+        "nove",
+        "девять",
+        "Nio",
+        "九"
       ]
     },
     {
-      "Default": {
-        "Language": "en",
-        "Word": "Zero",
-        "Mp3FilePath": "Zero.en.mp3"
-      },
-      "LocalizedItems": [
-        {
-          "Language": "zh",
-          "Word": "零",
-          "Mp3FilePath": "Zero.zh.mp3"
-        },
-        {
-          "Language": "de",
-          "Word": "Null",
-          "Mp3FilePath": "Zero.de.mp3"
-        },
-        {
-          "Language": "fr",
-          "Word": "zéro",
-          "Mp3FilePath": "Zero.fr.mp3"
-        },
-        {
-          "Language": "sv",
-          "Word": "Noll",
-          "Mp3FilePath": "Zero.sv.mp3"
-        },
-        {
-          "Language": "da",
-          "Word": "Zero",
-          "Mp3FilePath": "Zero.da.mp3"
-        },
-        {
-          "Language": "fi",
-          "Word": "nolla",
-          "Mp3FilePath": "Zero.fi.mp3"
-        },
-        {
-          "Language": "es",
-          "Word": "cero",
-          "Mp3FilePath": "Zero.es.mp3"
-        },
-        {
-          "Language": "it",
-          "Word": "zero",
-          "Mp3FilePath": "Zero.it.mp3"
-        },
-        {
-          "Language": "ja",
-          "Word": "ゼロ",
-          "Mp3FilePath": "Zero.ja.mp3"
-        },
-        {
-          "Language": "ko",
-          "Word": "제로",
-          "Mp3FilePath": "Zero.ko.mp3"
-        },
-        {
-          "Language": "nb",
-          "Word": "Zero",
-          "Mp3FilePath": "Zero.nb.mp3"
-        },
-        {
-          "Language": "pt",
-          "Word": "zero",
-          "Mp3FilePath": "Zero.pt.mp3"
-        },
-        {
-          "Language": "ru",
-          "Word": "нулевой",
-          "Mp3FilePath": "Zero.ru.mp3"
-        }
+      "Word": "Zero",
+      "Localized": [
+        "Zero",
+        "Null",
+        "Zero",
+        "cero",
+        "nolla",
+        "zéro",
+        "zero",
+        "ゼロ",
+        "제로",
+        "Zero",
+        "zero",
+        "нулевой",
+        "Noll",
+        "零"
       ]
     }
   ]

@@ -1,214 +1,84 @@
 {
-  "Version": "0.0.2",
+  "Version": "0.0.1",
   "DefaultLangauage": "en",
   "Languages": [
-    "en",
-    "zh",
-    "de",
-    "fr",
-    "sv",
     "da",
-    "fi",
+    "de",
+    "en",
     "es",
+    "fi",
+    "fr",
     "it",
     "ja",
     "ko",
     "nb",
     "pt",
-    "ru"
+    "ru",
+    "sv",
+    "zh"
   ],
   "Decks": [
     {
-      "Title": "Fruits",
-      "File": "fruits.json",
       "Version": "0.0.1",
-      "Identifier": "12345677899900",
-
-      "Localized": [
-        {
-          "Language": "en",
-          "Word": "Fruits"
-        },
-        {
-          "Language": "zh",
-          "Word": "Fruits"
-        },
-        {
-          "Language": "de",
-          "Word": "Fruits"
-        },
-        {
-          "Language": "fr",
-          "Word": "Fruits"
-        },
-        {
-          "Language": "sv-SE",
-          "Word": "Fruits"
-        },
-        {
-          "Language": "da-DK",
-          "Word": "Fruits"
-        },
-        {
-          "Language": "fi-FI",
-          "Word": "Fruits"
-        },
-        {
-          "Language": "es-ES",
-          "Word": "Fruits"
-        },
-        {
-          "Language": "it-IT",
-          "Word": "Fruits"
-        },
-        {
-          "Language": "ja-JP",
-          "Word": "Fruits"
-        },
-        {
-          "Language": "ko-KR",
-          "Word": "Fruits"
-        },
-        {
-          "Language": "nb-NO",
-          "Word": "Fruits"
-        },
-        {
-          "Language": "pt-BR",
-          "Word": "Fruits"
-        },
-        {
-          "Language": "ru-RU",
-          "Word": "Fruits"
-        }
+      "Identifier": "",
+      "Name": "fruits",
+      "LocalizedTitle": [
+        "frugter",
+        "Früchte",
+        "Fruits",
+        "frutas",
+        "hedelmät",
+        "fruits",
+        "frutta",
+        "果物",
+        "과일",
+        "frukt",
+        "frutas",
+        "фрукты",
+        "frukt",
+        "水果"
       ]
     },
     {
-      "Title": "Numbers",
-      "File": "numbers.json",
       "Version": "0.0.1",
-      "Identifier": "12345677899900",
-      "Localized": [
-        {
-          "Language": "en",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "zh",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "de",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "fr",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "sv-SE",
-          "Word": "Siffror"
-        },
-        {
-          "Language": "da-DK",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "fi-FI",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "es-ES",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "it-IT",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "ja-JP",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "ko-KR",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "nb-NO",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "pt-BR",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "ru-RU",
-          "Word": "Numbers"
-        }
+      "Identifier": "com.codeeffect.tapitapi.basic",
+      "Name": "colors",
+      "LocalizedTitle": [
+        "farver",
+        "Farben",
+        "Colors",
+        "Colores",
+        "värit",
+        "couleurs",
+        "colori",
+        "色",
+        "색상",
+        "farger",
+        "cores",
+        "Цвета",
+        "färg",
+        "颜色"
       ]
     },
     {
-      "Title": "Colors",
-      "File": "colors.json",
       "Version": "0.0.1",
-      "Identifier": "12345677899900",
-      "Localized": [
-        {
-          "Language": "en",
-          "Word": "Colors"
-        },
-        {
-          "Language": "zh",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "de",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "fr",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "sv-SE",
-          "Word": "Färger"
-        },
-        {
-          "Language": "da-DK",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "fi-FI",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "es-ES",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "it-IT",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "ja-JP",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "ko-KR",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "nb-NO",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "pt-BR",
-          "Word": "Numbers"
-        },
-        {
-          "Language": "ru-RU",
-          "Word": "Numbers"
-        }
+      "Identifier": "com.codeeffect.tapitapi.basic",
+      "Name": "numbers",
+      "LocalizedTitle": [
+        "numre",
+        "Numbers",
+        "Numbers",
+        "números",
+        "Numbers",
+        "nombres",
+        "numeri",
+        "数字",
+        "민수기",
+        "tall",
+        "números",
+        "числа",
+        "Numbers",
+        "数字"
       ]
     }
   ]
