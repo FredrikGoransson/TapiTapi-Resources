@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.1",
+  "Version": "0.0.2",
   "DefaultLangauage": "en",
   "Languages": [
     "da",
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "Version": "0.0.1",
+      "Version": "0.0.2",
       "Identifier": "com.codeeffect.tapitapi.basic",
       "Name": "numbers",
       "LocalizedTitle": [
@@ -77,7 +77,7 @@
         "tall",
         "números",
         "числа",
-        "Numbers",
+        "Nummer",
         "数字"
       ]
     }
