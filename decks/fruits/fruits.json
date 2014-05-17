@@ -1,5 +1,5 @@
-﻿{
-  "Version": "0.0.1",
+{
+  "Version": "0.0.2",
   "Languages": [
     "da",
     "de",
@@ -32,7 +32,7 @@
         "Apple",
         "maçã",
         "яблоко",
-        "Apple",
+        "Äpple",
         "苹果"
       ]
     },
