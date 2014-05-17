@@ -1,0 +1,211 @@
+﻿{
+  "Version": "0.0.1",
+  "Languages": [
+    "da",
+    "de",
+    "en",
+    "es",
+    "fi",
+    "fr",
+    "it",
+    "ja",
+    "ko",
+    "nb",
+    "pt",
+    "ru",
+    "sv",
+    "zh"
+  ],
+  "Items": [
+    {
+      "Word": "One",
+      "Localized": [
+        "én",
+        "ein",
+        "One",
+        "uno",
+        "yksi",
+        "un",
+        "uno",
+        "1",
+        "한",
+        "ett",
+        "um",
+        "один",
+        "One",
+        "一"
+      ]
+    },
+    {
+      "Word": "Two",
+      "Localized": [
+        "to",
+        "zwei",
+        "Two",
+        "dos",
+        "kaksi",
+        "deux",
+        "due",
+        "2",
+        "두",
+        "to",
+        "dois",
+        "два",
+        "Två",
+        "二"
+      ]
+    },
+    {
+      "Word": "Three",
+      "Localized": [
+        "tre",
+        "drei",
+        "Three",
+        "tres",
+        "kolme",
+        "trois",
+        "tre",
+        "3",
+        "세",
+        "tre",
+        "três",
+        "три",
+        "Tre",
+        "三"
+      ]
+    },
+    {
+      "Word": "Four",
+      "Localized": [
+        "fire",
+        "vier",
+        "Four",
+        "cuatro",
+        "neljä",
+        "quatre",
+        "quattro",
+        "4つの",
+        "네",
+        "fire",
+        "quatro",
+        "четыре",
+        "Fyra",
+        "四"
+      ]
+    },
+    {
+      "Word": "Five",
+      "Localized": [
+        "fem",
+        "fünf",
+        "Five",
+        "cinco",
+        "viisi",
+        "cinq",
+        "cinque",
+        "5",
+        "다섯",
+        "fem",
+        "cinco",
+        "пять",
+        "Fem",
+        "五"
+      ]
+    },
+    {
+      "Word": "Six",
+      "Localized": [
+        "seks",
+        "sechs",
+        "Six",
+        "seis",
+        "kuusi",
+        "six",
+        "sei",
+        "6",
+        "여섯",
+        "seks",
+        "seis",
+        "шесть",
+        "Sex",
+        "六"
+      ]
+    },
+    {
+      "Word": "Seven",
+      "Localized": [
+        "syv",
+        "sieben",
+        "Seven",
+        "siete",
+        "seitsemän",
+        "sept",
+        "sette",
+        "7",
+        "일곱",
+        "Seven",
+        "sete",
+        "семь",
+        "Sju",
+        "七"
+      ]
+    },
+    {
+      "Word": "Eight",
+      "Localized": [
+        "otte",
+        "acht",
+        "Eight",
+        "ocho",
+        "kahdeksan",
+        "huit",
+        "otto",
+        "8",
+        "여덟",
+        "åtte",
+        "oito",
+        "восемь",
+        "Åtta",
+        "八"
+      ]
+    },
+    {
+      "Word": "Nine",
+      "Localized": [
+        "ni",
+        "neun",
+        "Nine",
+        "nueve",
+        "yhdeksän",
+        "neuf",
+        "nove",
+        "9人",
+        "구",
+        "ni",
+        "nove",
+        "девять",
+        "Nio",
+        "九"
+      ]
+    },
+    {
+      "Word": "Zero",
+      "Localized": [
+        "Zero",
+        "Null",
+        "Zero",
+        "cero",
+        "nolla",
+        "zéro",
+        "zero",
+        "ゼロ",
+        "제로",
+        "Zero",
+        "zero",
+        "нулевой",
+        "Noll",
+        "零"
+      ]
+    }
+  ]
+}
