@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.2",
+  "Version": "0.0.3",
   "DefaultLangauage": "en",
   "Languages": [
     "da",
@@ -17,11 +17,71 @@
     "sv",
     "zh"
   ],
+  "Packs": [
+    {
+      "Name": "Basic",
+      "LocalizedTitle": [
+        "Basic",
+        "Basic",
+        "Basic",
+        "Basic",
+        "Basic",
+        "Basic",
+        "Basic",
+        "Basic",
+        "Basic",
+        "Basic",
+        "Basic",
+        "Basic",
+        "Enkla",
+        "Basic",
+      ]
+    },
+    {
+      "Name": "Intermediate",
+      "LocalizedTitle": [
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Medel",
+        "Intermediate",
+      ]
+    },
+    {
+      "Name": "Advanced",
+      "LocalizedTitle": [
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Intermediate",
+        "Svåra",
+        "Intermediate",
+      ]
+    },
+  ],
   "Decks": [
     {
       "Version": "0.0.1",
       "Identifier": "",
       "Name": "fruits",
+      "Pack": "Basic",
       "LocalizedTitle": [
         "frugter",
         "Früchte",
@@ -43,6 +103,7 @@
       "Version": "0.0.1",
       "Identifier": "com.codeeffect.tapitapi.basic",
       "Name": "colors",
+      "Pack": "Basic",
       "LocalizedTitle": [
         "farver",
         "Farben",
@@ -64,6 +125,7 @@
       "Version": "0.0.2",
       "Identifier": "com.codeeffect.tapitapi.basic",
       "Name": "numbers",
+      "Pack": "Basic",
       "LocalizedTitle": [
         "numre",
         "Numbers",
