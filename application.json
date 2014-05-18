@@ -79,7 +79,7 @@
   "Decks": [
     {
       "Version": "0.0.1",
-      "Identifier": "com.codeeffect.tapitapi.free",
+      "Identifier": "com.codeeffect.tapitapicards.free",
       "Name": "fruits",
       "Pack": "Basic",
       "LocalizedTitle": [
@@ -101,7 +101,7 @@
     },
     {
       "Version": "0.0.1",
-      "Identifier": "com.codeeffect.tapitapi.basicdecks com.codeeffect.tapitapi.alldecks",
+      "Identifier": "com.codeeffect.tapitapicards.basicdecks com.codeeffect.tapitapicards.alldecks",
       "Name": "colors",
       "Pack": "Basic",
       "LocalizedTitle": [
@@ -123,7 +123,7 @@
     },
     {
       "Version": "0.0.2",
-      "Identifier": "com.codeeffect.tapitapi.basicdecks com.codeeffect.tapitapi.alldecks",
+      "Identifier": "com.codeeffect.tapitapicards.basicdecks com.codeeffect.tapitapicards.alldecks",
       "Name": "numbers",
       "Pack": "Basic",
       "LocalizedTitle": [
