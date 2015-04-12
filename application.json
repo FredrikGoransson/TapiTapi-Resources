@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.3",
+  "Version": "0.0.4",
   "DefaultLangauage": "en",
   "Languages": [
     "da",
@@ -61,7 +61,7 @@
       "LocalizedTitle": [
         "Intermediate",
         "Intermediate",
-        "Intermediate",
+        "Advanced",
         "Intermediate",
         "Intermediate",
         "Intermediate",
